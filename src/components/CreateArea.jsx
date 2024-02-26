@@ -50,4 +50,4 @@ function CreateArea(props) {
   )
 }
 
-export default CreateAre
+export default CreateArea
